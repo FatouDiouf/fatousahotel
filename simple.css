@@ -1,0 +1,172 @@
+body
+{
+    background-image:url("logo/logo.png");
+    background-color: grey;
+}
+.fond
+{
+    background: white;
+}
+.entet
+{
+    background: black;
+    color: white;
+    height: 70px
+}
+#map
+{
+    position: relative;
+    right: -10%;
+    top: 40px;
+}
+#imgtel
+{
+    position: relative;
+    right: -30%;
+    top: -10px;
+}
+#imgcontact
+{
+    position: relative;
+    right: -46.2%;
+    top: -76px;
+}
+#ptel
+{
+    position: relative;
+    right: -32.5%;
+    top: -31px;
+}
+#pcontact
+{
+    position: relative;
+    right: -49%;
+    top: -106px;
+}
+#langue
+{
+    position: relative;
+    right: -68%;
+    top: -142px;
+    border:  none;
+    background-color: black;
+    color: #fff;
+}
+#bouton
+{
+    position: relative;
+    right: -69%;
+    top: -142px;
+    border:  none;
+    background-color: red;
+    color: #fff;
+    height: 25px;
+}
+.menu
+{
+   border: 1px solid black;
+    height: 120px;
+    background: white;
+      
+}
+.menu a
+{
+    position: relative;
+    left: 50%;
+    line-height: 8;
+    color: black;
+    margin-right: 30px
+}
+.menu a:hover 
+{
+    color: white;
+    background: black;
+}
+.middle
+{
+   border: 1px solid black;
+    height: 500px;
+    background: black;
+    width: 300px;
+    position: relative;
+    top: -850px;
+    left:750px;
+}
+
+.image
+{
+    width: 450px;
+    margin-left: 30px; 
+}
+#carouselExampleSlidesOnly
+{
+   width: 580px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.middle p
+{
+    color: red;
+    font-size: 30px;
+    position: relative;
+    top:-100px;
+}
+h6
+{
+    border: solid 1px red;
+    background: red;
+    color: white;
+    text-align: center;
+}
+h5
+{
+    text-decoration: underline red;
+}
+
+{
+    font-size: 12px;
+}
+.butto
+{
+    background: red;
+    border: red;
+    color: black;
+    width: 200px;
+    height: 40px;
+    position: relative;
+    left: 45px;
+}
+
+.middle h5
+{
+    position: relative;
+    top: 10px;
+    
+}
+.col-lg-12
+{
+    position: relative;
+    top: 200px;
+    
+}
+.col-lg-12 p
+{
+    border: 1px solid black;
+    background: black;
+    color: white;
+    font-size: 18px;
+    padding-left: 40px;
+}
+
+.des h5
+{
+  background: red;
+    color: white;
+} 
+th
+{
+    background: red;
+    color: white;
+}
+  
+   
