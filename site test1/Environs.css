@@ -118,13 +118,13 @@
 {
     position: relative;
     right: -10%;
-    top: -165px;
+    top: -140px;
 }
 #imgtel
 {
     position: relative;
     right: -30%;
-    top: 30px;
+    top: 18px;
 }
 #ptel
 {
@@ -142,14 +142,14 @@
 {
     position: relative;
     right: -50%;
-    top: -100px;
+    top: -80px;
 }
 #lanreser
 {
 
     width: 5%;
     position: relative;
-    top: 5%;
+    top: 30%;
     right: -70%;
 
 }
@@ -212,7 +212,7 @@ li
 }
 .border_right
 {
-    border-right: 5px solid rgb(207, 207, 207);
+    border-right: 1px solid rgb(207, 207, 207);
     line-height: 30px;
     text-align: center;
     padding: 2px;
@@ -222,7 +222,7 @@ li
     top: -100px;
 
 }
-#border_right_last
+.border_right_last
 {
     position: relative;
     left: 260px;

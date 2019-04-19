@@ -74,7 +74,7 @@ body
     right: -230%;
     top: -169px;
     border:  none;
-    background-color: red;
+    background-color:blue;
     color: #fff;
     height: 27px;
     line-height: 2px;
@@ -96,7 +96,7 @@ nav
 }
 #logo
 {
-    width: 30%;
+    width: 20%;
     position: relative;
     top: 10px;
 }
@@ -115,7 +115,7 @@ li
 }
 .border_right
 {
-    border-right: 2px solid rgb(207, 207, 207);
+    border-right: 1px solid rgb(207, 207, 207);
     line-height: 30px;
     text-align: center;
     padding: 2px;
@@ -125,7 +125,7 @@ li
     top: -100px;
 
 }
-#border_right_last
+.border_right_last
 {
     position: relative;
     left: 260px;
